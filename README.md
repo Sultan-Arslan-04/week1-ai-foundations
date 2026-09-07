@@ -11,6 +11,7 @@ This project demonstrates building a simple neural network from scratch using Py
 ## Run
 ```bash
 python src/model.py
+```
 ---
 
 ✅ So:
@@ -21,5 +22,3 @@ python src/model.py
 - **Documentation** goes in `README.md`.
 
 ---
-
-Would you like me to also show you how to **commit this structure step by step in Git** (so your history shows `initial project → add layers → add model → merge feature branch`)? That way your repo looks professional and matches the Day 3 deliverable.
