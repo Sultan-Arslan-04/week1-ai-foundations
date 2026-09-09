@@ -2,7 +2,6 @@
 
 A practical learning repository covering the mathematical, Python, OOP, Git, and statistical foundations required for machine learning and deep learning.
 
-<<<<<<< HEAD
 ## 📘 Topics Covered
 - [Linear algebra fundamentals](ca://s?q=Linear_algebra_fundamentals)  
 - [Derivatives and gradients](ca://s?q=Derivatives_and_gradients)  
@@ -32,25 +31,3 @@ week1-ai-foundations/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-=======
-## Structure
-- `src/layers.py` — contains layer definitions (Dense, ReLU, Sigmoid).
-- `src/model.py` — contains the Model class and example usage.
-- `requirements.txt` — dependencies.
-- `.gitignore` — ignored files.
-
-## Run
-```bash
-python src/model.py
-```
----
-
-✅ So:
-- **Put all layer classes** in `layers.py`.  
-- **Put the Model class and usage code** in `model.py`.  
-- **Dependencies** go in `requirements.txt`.  
-- **Ignored files** go in `.gitignore`.  
-- **Documentation** goes in `README.md`.
-
----
->>>>>>> a792b56371225d61ebc293644fd432ee42112695
