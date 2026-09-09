@@ -1,25 +1,33 @@
 # Week 1 AI Foundations
 
-This project demonstrates building a simple neural network from scratch using Python and NumPy.
+A practical learning repository covering the mathematical, Python, OOP, Git, and statistical foundations required for machine learning and deep learning.
 
-## Structure
-- `src/layers.py` — contains layer definitions (Dense, ReLU, Sigmoid).
-- `src/model.py` — contains the Model class and example usage.
-- `requirements.txt` — dependencies.
-- `.gitignore` — ignored files.
-
-## Run
-```bash
-python src/model.py
----
-
-✅ So:
-- **Put all layer classes** in `layers.py`.  
-- **Put the Model class and usage code** in `model.py`.  
-- **Dependencies** go in `requirements.txt`.  
-- **Ignored files** go in `.gitignore`.  
-- **Documentation** goes in `README.md`.
+## 📘 Topics Covered
+- [Linear algebra fundamentals](ca://s?q=Linear_algebra_fundamentals)  
+- [Derivatives and gradients](ca://s?q=Derivatives_and_gradients)  
+- [Gradient descent concepts](ca://s?q=Gradient_descent_concepts)  
+- [Python object-oriented programming](ca://s?q=Python_OOP_basics)  
+- [Inheritance and method overriding](ca://s?q=Inheritance_and_method_overriding)  
+- [Polymorphism](ca://s?q=Polymorphism_in_Python)  
+- [Composition](ca://s?q=Composition_in_OOP)  
+- [NumPy](ca://s?q=NumPy_basics)  
+- [Statistical experiments](ca://s?q=Statistical_experiments)  
+- [Random seeds](ca://s?q=Random_seeds_in_numpy)  
+- [Mean, variance, and standard deviation](ca://s?q=Mean_variance_standard_deviation)  
+- [Git branching and merge conflict resolution](ca://s?q=Git_branching_and_conflict_resolution)  
 
 ---
 
-Would you like me to also show you how to **commit this structure step by step in Git** (so your history shows `initial project → add layers → add model → merge feature branch`)? That way your repo looks professional and matches the Day 3 deliverable.
+## 📂 Project Structure
+```text
+week1-ai-foundations/
+├── src/
+│   ├── __init__.py
+│   ├── layers.py
+│   ├── model.py
+│   └── stats_experiment.py
+├── notebooks/
+│   └── week1.ipynb
+├── README.md
+├── requirements.txt
+└── .gitignore
